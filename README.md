@@ -63,32 +63,16 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </div>
 
 
-## Sprint 0. Concepção
-- [x] Aprender a mexer no GitHub;
-- [x] Identifique os elementos principais;
-- [x] Pergunta do P.O ao cliente;
-- [x] Organização do Jira Software;
-- [x] Criação do brainstorming no Miro;
-- [x] 5W2H;
-- [x] Construção do Gráfico Burndown;
-- [x] Documentação da Sprint 0;
-- [x] Criação do Backlog da Equipe;
-- [x] Elaboração do Backlog individual;
-- [x] Definir quem vai trabalhar com cada professor;
-- [x] Estruturar a documentação do GitHub e Jira Software;
-
 ## Sprint 1. Desenvolvimento do Projeto
 - [x] Documentação Sprint 1;
 - [x] Relatório;
-- [x] 5W2H;
 - [x] Gráfico Burndown;
 - [x] Divisão de Atividades no Jira;
-- [x] Protótipo de dashboard da Sprint 1;
 - [x] Monitoramento e ajustes dos dados;
-- [x] Pegar dados indicadores geral, de Importação e Exportação do Estado de SP;
-- [x] Identificar os modais utilizados para importação e exportação no estado de São Paulo;
-- [x] Montar tabela relacional com base nos dados;
-- [x] Identificar os modais utilizados nos trâmites internacionais de movimento de cargas;
+- [x] Criação de um projeto no Jira para as sprints;
+- [x] Criação de um repositório no GitHub para o projeto;
+- [x] Criação de uma biblioteca de dados;
+- [x] Criação de Power BI com análise preliminar de três meses;
       
 ## Sprint 2. Implementação
 - [x] Documentação Sprint 2;
