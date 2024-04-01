@@ -77,26 +77,16 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 2. Implementação
 - [x] Documentação Sprint 2;
 - [x] Relatório;
-- [x] 5W2H;
 - [x] Gráfico Burndown;
 - [x] Divisão de Atividades no Jira;
-- [x] Protótipo de dashboard da Sprint 2;
 - [x] Monitoramento e ajustes dos dados;
-- [x] Relacionar dados de importação e exportação na cidade de Ribeirão Preto;
-- [x] Relacionar dados de importação e exportação na cidade de São José dos Campos;
-- [x] Relacionar dados de importação e exportação na cidade de Campinas;
-- [ ] Probabilidade dos Municípios (Campinas, Ribeirão Preto e São José dos Campos);
-- [x] Protótipo de Dashboard (Tela 2 POWER BI);
       
 ## Sprint 3. Operacionalização
 - [x] Documentação Sprint 3;
 - [x] Relatório;
-- [x] 5W2H;
 - [x] Gráfico Burndown;
 - [x] Divisão de Atividades no Jira;
 - [x] Protótipo de dashboard da Sprint 3;
-- [x] Monitoramento e ajustes dos dados;
-- [x] Probabilidade de São José dos Campos, Guarulhos e Campinas;
 
 
 
