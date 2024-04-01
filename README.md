@@ -52,7 +52,7 @@ O projeto visa desenvolver uma solução que inclui uma estrutura de banco de da
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints: [(Clique Aqui)](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
+#### Cronograma das Sprints: [(Clique Aqui)](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1/backlog)
 
 # Backlog do Produto
   
