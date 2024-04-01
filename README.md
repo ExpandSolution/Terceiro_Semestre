@@ -4,7 +4,6 @@ Esse projeto é baseado na metodologia ágil Scrum, onde tudo que aprendemos nas
 
 # Índice
 
-* [Projeto](#projeto-api)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -12,8 +11,6 @@ Esse projeto é baseado na metodologia ágil Scrum, onde tudo que aprendemos nas
 * [Backlog do Produto](#Backlog-do-produto)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
-# Projeto
-O projeto visa desenvolver uma solução que inclui uma estrutura de banco de dados relacional e telas de Power BI para analisar a produtividade mensal dos veículos, a evolução dos custos por quilômetro e por unidade transportada em diferentes rotas, com a capacidade de filtrar por fábricas. 
 
 Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
@@ -31,11 +28,11 @@ Sprint | Previsão | Status| Relatório|
 
 Scrum Master | Product Owner |
 |:------------:|:---------------:|
-<img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/ab6fd304-3440-4af1-9ddf-3dc3f4a46bbe" width=115>[<div>Rosimeire Helena</div>](https://github.com/rosiihelena)</div></sub><br><a href="https://www.linkedin.com/in/rosimeire-helena-138a63269/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/d136dfab-fc9f-4c0d-be91-f414bff876de" width=115>[<div>Gabriel Santana</div>](https://github.com/GabrielSTN5)</div></sub><br><a href="https://www.linkedin.com/in/gabriel-santana-027794215/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
+<img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/d136dfab-fc9f-4c0d-be91-f414bff876de" width=115>[<div>Gabriel Santana</div>](https://github.com/GabrielSTN5)</div></sub><br><a href="https://www.linkedin.com/in/gabriel-santana-027794215/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/d136dfab-fc9f-4c0d-be91-f414bff876de" width=115>[<div>Amanda Lessa</div>](https://github.com/amandslessa)</div></sub><br><a href="https://www.linkedin.com/in/amandasantoslessa/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
 
 Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-<img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/caf73841-44c6-4b04-934e-c81ac7eacce7" width=115>[<div>Ana Júlia</div>](https://github.com/AnaJ240)</div></sub><br><a href="https://www.linkedin.com/in/ana-j%C3%BAlia-gregate-a1399a22a/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/6c26fa2b-09dc-4a7d-944b-af574d0d7340" width=115>[<div>Diego Campos</div>](https://Diegocampos060686)</div></sub><br><a href="https://www.linkedin.com/in/diego-siqueira-56680926b/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/784b3b05-0ab5-4dbd-b756-6439c705583a" width=115>[<div>Gabriela Harumi</div>](https://github.com/GabiHarumiGomes)</div></sub><br><a href="https://www.linkedin.com/in/gabriela-harumi-364503183/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/616c5b5b-a6aa-489b-b038-5286f3e3cabc" width=115>[<div>Joyce Sena</div>](https://github.com/Joycess)</div></sub><br><a href="https://www.linkedin.com/in/joyce-sena-49918b278/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/aed0509f-d7ee-43d8-88e5-a5fb706652c3" width=115>[<div>Rafael Ramirez</div>](https://github.com/Rafaelramirez190185)</div></sub><br><a href="https://www.linkedin.com/in//rafael-ramirez-286553291/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
+<img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/caf73841-44c6-4b04-934e-c81ac7eacce7" width=115>[<div>Ana Júlia</div>](https://github.com/AnaJ240)</div></sub><br><a href="https://www.linkedin.com/in/ana-j%C3%BAlia-gregate-a1399a22a/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/784b3b05-0ab5-4dbd-b756-6439c705583a" width=115>[<div>Gabriela Harumi</div>](https://github.com/GabiHarumiGomes)</div></sub><br><a href="https://www.linkedin.com/in/gabriela-harumi-364503183/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/616c5b5b-a6aa-489b-b038-5286f3e3cabc" width=115>[<div>Joyce Sena</div>](https://github.com/Joycess)</div></sub><br><a href="https://www.linkedin.com/in/joyce-sena-49918b278/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/aed0509f-d7ee-43d8-88e5-a5fb706652c3" width=115>[<div>Rafael Ramirez</div>](https://github.com/Rafaelramirez190185)</div></sub><br><a href="https://www.linkedin.com/in//rafael-ramirez-286553291/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/ab6fd304-3440-4af1-9ddf-3dc3f4a46bbe" width=115>[<div>Rosimeire Helena</div>](https://github.com/rosiihelena)</div></sub><br><a href="https://www.linkedin.com/in/rosimeire-helena-138a63269/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
 
 </div>
 
@@ -43,18 +40,11 @@ Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
 
 # Objetivo do Projeto
 
-O Projeto tem como objetivo, identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e realizar a geografia dos fluxos de cargas, de importação e exportação, para que possa ser desenvolvido um dashboard interativo que permita fazer uma análise dos dados. O dashboard deve conter de forma clara uma visão de qual modal mais utilizado, dos custos que esses modais tiveram, contara com o valor FOB, onde teremos que também assosiar ao SH4.
+O projeto visa desenvolver uma solução que inclui uma estrutura de banco de dados relacional e telas de Power BI para analisar a produtividade mensal dos veículos, a evolução dos custos por quilômetro e por unidade transportada em diferentes rotas, com a capacidade de filtrar por fábricas. 
 
 
 ## Tecnologias Utilizadas
 
-
-* [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%203/Documentos/5W2H%20-%20Sprint%203.md)
-* [GitHub](https://github.com/ExpandSolution)
-* [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
-* [Scrum](https://www.atlassian.com/br/agile/scrum)
-* Power BI;
-* Figma;
   
   
 # Cronograma das Sprints
@@ -68,30 +58,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/54ae5ba1-f80d-4d92-b959-60abb79b4673)
 
-
-![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/643b8572-1454-4648-850d-0b40bdc45993)
 
 </div>
-
-Regras de Negócio
-- 
-
-Requisitos funcionais:
-
-- Dashboard
-- Relatórios
-  
-Requisitos não funcionais:
-
-- Metodologias Ágil
-- Excel / Jira / 5W2H  / Power BI  /  Figma
-  
-
-# Burndown 
-![Burndown]()
-
 
 
 ## Sprint 0. Concepção
