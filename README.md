@@ -114,18 +114,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Monitoramento e ajustes dos dados;
 - [x] Probabilidade de São José dos Campos, Guarulhos e Campinas;
 
-# Funcionalidades e Registros das Sprints
-
-## GitHub
-
-https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/fb63d564-f0c0-4dce-9846-debfbc5523a3
-
-## Jira-Software
-
-https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/197767e2-d8dc-4111-9032-84043c562a6d
-
-
-
 
 
 # Competências desenvolvidas
