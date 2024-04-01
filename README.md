@@ -10,21 +10,19 @@ Esse projeto é baseado na metodologia ágil Scrum, onde tudo que aprendemos nas
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Cronograma das Sprints](#Cronograma)
 * [Backlog do Produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
-* [Funcionalidades e Registros das Sprints](#funcionalidades-e-registros-das-sprints)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
 # Projeto
-O Projeto pedagógico é alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Produto Viável (MVP), seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal, disponível no site da Fatec SJC, com definição das datas do Kickoff e das Sprints.
+O projeto visa desenvolver uma solução que inclui uma estrutura de banco de dados relacional e telas de Power BI para analisar a produtividade mensal dos veículos, a evolução dos custos por quilômetro e por unidade transportada em diferentes rotas, com a capacidade de filtrar por fábricas. 
 
 Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
-|Kick Off | 06/09/2023 | Concluído|  | 
-|00| 25/09/2023 | Concluído|  | 
-|01| 25/10/2023 | Concluído| [Relatório Sprint 1](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
-|02| 16/11/2023 | Concluido| [Relatório Sprint 2](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%202/Documentos/Relat%C3%B3rio%20Sprint%202.pdf) |
-|03| 06/12/2023 | Concluído| [Relatório Sprint 3](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%203/Documentos/Relat%C3%B3rio%20Sprint%203.pdf) | 
-|Feira de Soluções|12/12/2023 | Concluido | | 
+|Kick Off | 13/03/2024 | Concluído|  | 
+|01| 17/04/2024 | Em Progresso| [Relatório Sprint 1]() | 
+|02| 08/05/2024 | a fazer|  |
+|03| 29/05/2024 | a fazer|  | 
+|04| 19/06/2024 | a fazer|  | 
+|Feira de Soluções|27/06/2024 | a fazer | | 
 
 
 
