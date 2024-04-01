@@ -45,7 +45,7 @@ O projeto visa desenvolver uma solução que inclui uma estrutura de banco de da
 
 ## Tecnologias Utilizadas
 
-  
+<img src="https://github.com/William2819/Portfolio/assets/93256317/1993e3ba-867f-42d2-908e-ccac836c4ae1" width="80" height="80"> 
   
 # Cronograma das Sprints
 
