@@ -12,6 +12,9 @@ Esse projeto é baseado na metodologia ágil Scrum, onde tudo que aprendemos nas
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
 
+
+
+
 Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 13/03/2024 | Concluído|  | 
