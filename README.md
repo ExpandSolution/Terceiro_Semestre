@@ -1,11 +1,10 @@
-# Aprendizado por Projeto Integrador
+# Objetivo do Projeto
 
-Esse projeto é baseado na metodologia ágil Scrum, onde tudo que aprendemos nas matérias de Logística, podemos colocar o aprendizado em pratica ao desenvolver o projeto, assim, analisamos, discutimos e integramos ao que aprendemos conforme o que nos é solicitado. O projeto integrador promove esse diálogo entre as disciplinas, ele costuma envolver diferentes etapas, isso vai desde a identificação do que deve ser feito até a execução. Somos desafiados a trabalhar em equipe, fazer pesquisas, coletar e analisar dados para achar soluções.
+O projeto visa desenvolver uma solução que inclui uma estrutura de banco de dados relacional e telas de Power BI para analisar a produtividade mensal dos veículos, a evolução dos custos por quilômetro e por unidade transportada em diferentes rotas, com a capacidade de filtrar por fábricas. 
 
 # Índice
 
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Cronograma das Sprints](#Cronograma)
 * [Backlog do Produto](#Backlog-do-produto)
@@ -38,12 +37,6 @@ Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
 <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/caf73841-44c6-4b04-934e-c81ac7eacce7" width=115>[<div>Ana Júlia</div>](https://github.com/AnaJ240)</div></sub><br><a href="https://www.linkedin.com/in/ana-j%C3%BAlia-gregate-a1399a22a/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/784b3b05-0ab5-4dbd-b756-6439c705583a" width=115>[<div>Gabriela Harumi</div>](https://github.com/GabiHarumiGomes)</div></sub><br><a href="https://www.linkedin.com/in/gabriela-harumi-364503183/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/616c5b5b-a6aa-489b-b038-5286f3e3cabc" width=115>[<div>Joyce Sena</div>](https://github.com/Joycess)</div></sub><br><a href="https://www.linkedin.com/in/joyce-sena-49918b278/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/aed0509f-d7ee-43d8-88e5-a5fb706652c3" width=115>[<div>Rafael Ramirez</div>](https://github.com/Rafaelramirez190185)</div></sub><br><a href="https://www.linkedin.com/in//rafael-ramirez-286553291/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b58dccb2-72b4-4ecc-982f-aa10ee26984b" width=115>[<div>Rosimeire Helena</div>](https://github.com/rosiihelena)</div></sub><br><a href="https://www.linkedin.com/in/rosimeire-helena-138a63269/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
 
 </div>
-
-
-
-# Objetivo do Projeto
-
-O projeto visa desenvolver uma solução que inclui uma estrutura de banco de dados relacional e telas de Power BI para analisar a produtividade mensal dos veículos, a evolução dos custos por quilômetro e por unidade transportada em diferentes rotas, com a capacidade de filtrar por fábricas. 
 
 
 ## Tecnologias Utilizadas
