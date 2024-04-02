@@ -39,6 +39,7 @@ Dev | Dev | Dev | Dev | Dev
 ## Tecnologias Utilizadas
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b6329058-bdba-483b-8ae1-012df9f147f3" width="80" height="80">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/bc82d824-4f41-44db-a999-46918c08571e" width="80" height="80">
   
 # Cronograma das Sprints
 
