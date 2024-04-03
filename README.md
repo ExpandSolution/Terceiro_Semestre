@@ -40,6 +40,12 @@ Dev | Dev | Dev | Dev | Dev
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b6329058-bdba-483b-8ae1-012df9f147f3" width="80" height="80">
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/bc82d824-4f41-44db-a999-46918c08571e" width="80" height="80">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/3e127d92-6cd0-499e-b934-c381d48d308b" width="80" height="80">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/43783695-b56b-4bfa-8d5c-40df194027b4" width="80" height="80">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/268b15ef-e343-41ae-9a96-a682a47babda" width="80" height="80">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/76b6dbd3-54de-4300-8ed2-1c1556e1c59d" width="80" height="80">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/18812bbd-6e2a-45ad-b7e2-71b43e60f385" width="80" height="80">
+
   
 # Cronograma das Sprints
 
