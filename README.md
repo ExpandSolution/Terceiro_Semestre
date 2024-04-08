@@ -1,6 +1,6 @@
 # Objetivo do Projeto
 
-O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro acadêmico, visando solucionar e otimizar rotas/produtividades logísticas de uma empresa. O projeto também visa o desenvolvimento das soluções por meio de Dashboards, banco de dados,entre outros.
+O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro acadêmico, visando solucionar e otimizar rotas/produtividades logísticas de uma empresa. O projeto também visa o desenvolvimento das soluções por meio de Dashboards, banco de dados, etc.
 
 # Índice
 
