@@ -1,6 +1,6 @@
 # Objetivo do Projeto
 
-O projeto visa desenvolver uma solução que inclui uma estrutura de banco de dados relacional e telas de Power BI para analisar a produtividade mensal dos veículos, a evolução dos custos por quilômetro e por unidade transportada em diferentes rotas, com a capacidade de filtrar por fábricas. 
+O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro acadêmico, visando solucionar e otimizar rotas/produtividades logísticas de uma empresa. O projeto também visa o desenvolvimento das soluções por meio de Dashboards, banco de dados,entre outros.
 
 # Índice
 
