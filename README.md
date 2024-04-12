@@ -74,19 +74,36 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Criação de Power BI com análise preliminar de três meses;
       
 ## Sprint 2. Implementação
-- [x] Documentação Sprint 2;
-- [x] Relatório;
-- [x] Gráfico Burndown;
-- [x] Divisão de Atividades no Jira;
-- [x] Monitoramento e ajustes dos dados;
+- [ ] Documentação Sprint 2;
+- [ ] Relatório;
+- [ ] Gráfico Burndown;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Monitoramento e ajustes dos dados;
+- [ ] Criação de Modelo conceitual do banco de dados em SQL;
+- [ ] Criação de um modelo lógico do banco de dados em SQL;
+- [ ] Implementação de tabelas no banco de dados conforme o modelo lógico;
       
 ## Sprint 3. Operacionalização
-- [x] Documentação Sprint 3;
-- [x] Relatório;
-- [x] Gráfico Burndown;
-- [x] Divisão de Atividades no Jira;
-- [x] Protótipo de dashboard da Sprint 3;
+- [ ] Documentação Sprint 3;
+- [ ] Relatório;
+- [ ] Gráfico Burndown;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Monitoramento e ajustes dos dados;
+- [ ] Dashboard para visualização dos indicadores de produtividade de veículos, distribuição e custo de rotas;
+- [ ] Criação de dashboard (Power BI) com gráficos para melhor visualização dos indicadores;
+- [ ] Conexão entre o visualizador ao banco de dados;
+- [ ] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
+- [ ] Integração dos resultados da otimização ao visualizador de indicadores em BI;
 
+## Sprint 4. Finalização
+- [ ] Documentação Sprint 4;
+- [ ] Relatório;
+- [ ] Gráfico Burndown;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Monitoramento e ajustes dos dados;
+- [ ] Teste de integração entre o banco de dados, o visualizador de indicadores e o método de transportes;
+- [ ] Correção de Bugs e ajustes de performance;
+- [ ] Criação da documentação técnica com treinamento para os usuários finais;
 
 
 # Competências desenvolvidas
