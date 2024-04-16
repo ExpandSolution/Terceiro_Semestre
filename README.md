@@ -38,13 +38,16 @@ Dev | Dev | Dev | Dev | Dev
 
 ## Tecnologias Utilizadas
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b6329058-bdba-483b-8ae1-012df9f147f3" width="80" height="80">
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/bc82d824-4f41-44db-a999-46918c08571e" width="80" height="80">
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/3e127d92-6cd0-499e-b934-c381d48d308b" width="80" height="80">
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/43783695-b56b-4bfa-8d5c-40df194027b4" width="80" height="80">
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/268b15ef-e343-41ae-9a96-a682a47babda" width="80" height="80">
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/76b6dbd3-54de-4300-8ed2-1c1556e1c59d" width="80" height="80">
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/18812bbd-6e2a-45ad-b7e2-71b43e60f385" width="80" height="80">
+<div>
+  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/05dad4fc-3f8a-4d82-978d-729576f9948f">
+  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/7da1425a-4986-4b43-ba79-24086755568a">
+  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1a3a62a0-6b54-431e-a2db-25fa5a807aec">
+  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/ea7de4ea-1e88-4c20-a824-84bfe9e6874d">
+  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b73d8546-15a4-44ea-b32c-043da8e1df14">
+  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2ac8d27a-4dc2-4610-8cbc-98245af82b91">
+  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2eb5cbb0-5eaf-4027-ae11-77d560561716">
+
+</div>
 
   
 # Cronograma das Sprints
@@ -72,7 +75,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Criação de um repositório no GitHub para o projeto;
 - [x] Criação de uma biblioteca de dados;
 - [x] Criação de Power BI com análise preliminar de três meses;
-      
+
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/710ded22-3c05-4dc0-b914-096214522d99">
+ 
 ## Sprint 2. Implementação
 - [ ] Documentação Sprint 2;
 - [ ] Relatório;
@@ -82,7 +87,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação de Modelo conceitual do banco de dados em SQL;
 - [ ] Criação de um modelo lógico do banco de dados em SQL;
 - [ ] Implementação de tabelas no banco de dados conforme o modelo lógico;
-      
+
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/e05fcdc4-98c8-40f4-be50-62f0c8132af3">
+
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
 - [ ] Relatório;
@@ -95,6 +102,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
 - [ ] Integração dos resultados da otimização ao visualizador de indicadores em BI;
 
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b7af6bba-62ae-4f4b-8379-af647ea251da">
+
 ## Sprint 4. Finalização
 - [ ] Documentação Sprint 4;
 - [ ] Relatório;
@@ -105,6 +114,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Correção de Bugs e ajustes de performance;
 - [ ] Criação da documentação técnica com treinamento para os usuários finais;
 
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b2cdda59-0e69-4c9b-9859-59b4e3ed6657">
 
 # Competências desenvolvidas
 
