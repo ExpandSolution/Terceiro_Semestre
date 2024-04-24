@@ -4,7 +4,7 @@ O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro a
 
 # Índice
 
-* [Equipe]
+* [Equipe](#equipe)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Cronograma das Sprints](#Cronograma)
 * [Backlog do Produto](#Backlog-do-produto)
