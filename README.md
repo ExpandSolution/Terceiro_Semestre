@@ -93,9 +93,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Gráfico Burndown;
 - [x] Divisão de Atividades no Jira;
 - [x] Monitoramento e ajustes dos dados;
-- [ ] Criação de Modelo conceitual do banco de dados em SQL;
-- [ ] Criação de um modelo lógico do banco de dados em SQL;
-- [ ] Implementação de tabelas no banco de dados conforme o modelo lógico;
+- [x] Atualização de Jira Software;
+- [x] Estudo de Python;
+- [x] Estudo de Power BI;
+- [x] Otimização em python utilizando métodos de transporte com 5 clientes;
+- [x] Modelagem dos dados em MySQL;
+
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/e05fcdc4-98c8-40f4-be50-62f0c8132af3">
 
