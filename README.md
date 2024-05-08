@@ -101,7 +101,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Modelagem dos dados em MySQL;
 
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/e05fcdc4-98c8-40f4-be50-62f0c8132af3">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/6fac8184-1217-409a-9edc-21ae3c84c802">
 
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
