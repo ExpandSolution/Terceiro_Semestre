@@ -133,7 +133,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/af6038d3-b91d-4def-8d2d-ed42c6fd5543">
 
-# Código Python
+# Códigos Python
 
 !pip install pulp
 from pulp import *
