@@ -92,7 +92,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Documentação Sprint 2;
 - [x] Relatório;
 - [x] Gráfico Burndown;
-- [ ] Monitoramento e ajustes dos dados;
+- [x] Monitoramento e ajustes dos dados;
 - [x] Divisão de Atividades no Jira;
 - [x] Atualização de Jira Software;
 - [x] Estudo de Python;
@@ -100,7 +100,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Modelagem dos dados em MySQL;
 - [x] Otimização em python utilizando métodos de transporte com 5 clientes;
 - [x] Atualização do GitHub;
-
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/6fac8184-1217-409a-9edc-21ae3c84c802">
 
