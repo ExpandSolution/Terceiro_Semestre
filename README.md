@@ -46,7 +46,6 @@ Dev | Dev | Dev | Dev | Dev
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b73d8546-15a4-44ea-b32c-043da8e1df14">
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2ac8d27a-4dc2-4610-8cbc-98245af82b91">
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2eb5cbb0-5eaf-4027-ae11-77d560561716">
-  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/7e8e6c81-6695-4b1c-9bce-fcad6e72a087">
 
 
 </div>
