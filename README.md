@@ -86,7 +86,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Criação de uma biblioteca de dados;
 - [x] Criação de Power BI com análise preliminar de três meses;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/710ded22-3c05-4dc0-b914-096214522d99">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1dfceb9b-2cd0-4707-836e-2693217f169d">
  
 ## Sprint 2. Implementação
 - [x] Documentação Sprint 2;
