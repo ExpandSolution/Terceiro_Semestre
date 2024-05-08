@@ -4,18 +4,20 @@ O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro a
 
 # Índice
 
-* [Equipe](#equipe)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Equipe](#Equipe)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Cronograma das Sprints](#Cronograma)
-* [Backlog do Produto](#Backlog-do-produto)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
+* [Burndown](#Burndown)
+* [Backlog do Produto](#Backlog-do-Produto)
+* [MVP](#MVP)
+* [Competências Desenvolvidas](#Competências-Desenvolvidas)
 
 
 Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
-|Kick Off | 13/03/2024 | Concluído|  | 
-|01| 17/04/2024 | Concluído| [Relatório Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
-|02| 08/05/2024 | a fazer|  |
+|Kick Off | 13/03/2024 | Concluído ✔️|  | 
+|01| 17/04/2024 | Concluído ✔️| [Relatório Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
+|02| 08/05/2024 | Concluído ✔️|  |
 |03| 29/05/2024 | a fazer|  | 
 |04| 19/06/2024 | a fazer|  | 
 |Feira de Soluções|27/06/2024 | a fazer | | 
@@ -47,7 +49,7 @@ Dev | Dev | Dev | Dev | Dev
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2ac8d27a-4dc2-4610-8cbc-98245af82b91">
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2eb5cbb0-5eaf-4027-ae11-77d560561716">
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/5662d088-c435-467e-8851-d6b598d53cea">
-
+  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/f318e0be-caeb-4a50-8e62-feafd0713921">
 
 
 </div>
@@ -59,11 +61,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 #### Cronograma das Sprints: [(Clique Aqui)](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1/backlog)
 
+# Burndown
+
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/344b9a70-a557-4ea4-a19d-407c8bf10522">
+
+
 # Backlog do Produto
   
 <div align="center">
     
-
 
 </div>
 
@@ -82,14 +88,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/710ded22-3c05-4dc0-b914-096214522d99">
  
 ## Sprint 2. Implementação
-- [ ] Documentação Sprint 2;
-- [ ] Relatório;
-- [ ] Gráfico Burndown;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Criação de Modelo conceitual do banco de dados em SQL;
-- [ ] Criação de um modelo lógico do banco de dados em SQL;
-- [ ] Implementação de tabelas no banco de dados conforme o modelo lógico;
+- [x] Documentação Sprint 2;
+- [x] Relatório;
+- [x] Gráfico Burndown;
+- [x] Divisão de Atividades no Jira;
+- [x] Monitoramento e ajustes dos dados;
+- [x] Atualização de Jira Software;
+- [x] Estudo de Python;
+- [x] Estudo de Power BI;
+- [x] Otimização em python utilizando métodos de transporte com 5 clientes;
+- [x] Modelagem dos dados em MySQL;
+
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/e05fcdc4-98c8-40f4-be50-62f0c8132af3">
 
@@ -118,6 +127,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação da documentação técnica com treinamento para os usuários finais;
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b2cdda59-0e69-4c9b-9859-59b4e3ed6657">
+
+# MVP
+
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/af6038d3-b91d-4def-8d2d-ed42c6fd5543">
+
 
 # Competências desenvolvidas
 
