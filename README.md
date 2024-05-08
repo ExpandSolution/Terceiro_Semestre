@@ -92,13 +92,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Documentação Sprint 2;
 - [x] Relatório;
 - [x] Gráfico Burndown;
+- [ ] Monitoramento e ajustes dos dados;
 - [x] Divisão de Atividades no Jira;
-- [x] Monitoramento e ajustes dos dados;
 - [x] Atualização de Jira Software;
 - [x] Estudo de Python;
 - [x] Estudo de Power BI;
-- [x] Otimização em python utilizando métodos de transporte com 5 clientes;
 - [x] Modelagem dos dados em MySQL;
+- [x] Otimização em python utilizando métodos de transporte com 5 clientes;
+- [x] Atualização do GitHub;
 
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/6fac8184-1217-409a-9edc-21ae3c84c802">
@@ -162,6 +163,8 @@ Problema1
 problema1.solve()
 for v in problema1.variables(): print (v.name, "=", v.varValue)
 print('resultado do custo minimo =', value(problema1.objective))
+
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/653fb856-7388-429a-9e25-a7c8fde8d5cb">
 
 # Competências desenvolvidas
 
