@@ -129,7 +129,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Códigos Python
 
-!pip install pulp
+´´´!pip install pulp
 from pulp import *
 
 Problema1 = LpProblem('Produção',LpMinimize)
@@ -155,7 +155,7 @@ Problema1
 
 problema1.solve()
 for v in problema1.variables(): print (v.name, "=", v.varValue)
-print('resultado do custo minimo =', value(problema1.objective))
+print('resultado do custo minimo =', value(problema1.objective))´´´
 
 # Competências desenvolvidas
 
