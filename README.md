@@ -7,7 +7,6 @@ O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro a
 * [Equipe](#Equipe)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Cronograma das Sprints](#Cronograma)
-* [Burndown](#Burndown)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [MVP](#MVP)
 * [Códigos Python](#Códigos-Python)
@@ -62,11 +61,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 #### Cronograma das Sprints: [(Clique Aqui)](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1/backlog)
 
-# Burndown
-
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/344b9a70-a557-4ea4-a19d-407c8bf10522">
-
-
 # Backlog do Produto
   
 <div align="center">
@@ -115,7 +109,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
 - [ ] Integração dos resultados da otimização ao visualizador de indicadores em BI;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b7af6bba-62ae-4f4b-8379-af647ea251da">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/77a1bff0-e46e-4d83-8dd5-5fe697cb0d16">
 
 ## Sprint 4. Finalização
 - [ ] Documentação Sprint 4;
@@ -127,7 +121,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Correção de Bugs e ajustes de performance;
 - [ ] Criação da documentação técnica com treinamento para os usuários finais;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b2cdda59-0e69-4c9b-9859-59b4e3ed6657">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1c06cf88-e70d-40f3-8420-e1e2295fca19">
 
 # MVP
 
@@ -162,8 +156,6 @@ Problema1
 problema1.solve()
 for v in problema1.variables(): print (v.name, "=", v.varValue)
 print('resultado do custo minimo =', value(problema1.objective))
-
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/653fb856-7388-429a-9e25-a7c8fde8d5cb">
 
 # Competências desenvolvidas
 
