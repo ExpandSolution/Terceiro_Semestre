@@ -7,9 +7,9 @@ O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro a
 * [Equipe](#Equipe)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Cronograma das Sprints](#Cronograma)
-* [Burndown](#Burndown)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [MVP](#MVP)
+* [Códigos Python](#Códigos-Python)
 * [Competências Desenvolvidas](#Competências-Desenvolvidas)
 
 
@@ -17,7 +17,7 @@ Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 13/03/2024 | Concluído ✔️|  | 
 |01| 17/04/2024 | Concluído ✔️| [Relatório Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
-|02| 08/05/2024 | Concluído ✔️|  |
+|02| 08/05/2024 | Concluído ✔️| [Relatório Sprint 2](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%202.pdf) |
 |03| 29/05/2024 | a fazer|  | 
 |04| 19/06/2024 | a fazer|  | 
 |Feira de Soluções|27/06/2024 | a fazer | | 
@@ -61,11 +61,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 #### Cronograma das Sprints: [(Clique Aqui)](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1/backlog)
 
-# Burndown
-
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/344b9a70-a557-4ea4-a19d-407c8bf10522">
-
-
 # Backlog do Produto
   
 <div align="center">
@@ -85,22 +80,22 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Criação de uma biblioteca de dados;
 - [x] Criação de Power BI com análise preliminar de três meses;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/710ded22-3c05-4dc0-b914-096214522d99">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1dfceb9b-2cd0-4707-836e-2693217f169d">
  
 ## Sprint 2. Implementação
 - [x] Documentação Sprint 2;
 - [x] Relatório;
 - [x] Gráfico Burndown;
-- [x] Divisão de Atividades no Jira;
 - [x] Monitoramento e ajustes dos dados;
+- [x] Divisão de Atividades no Jira;
 - [x] Atualização de Jira Software;
 - [x] Estudo de Python;
 - [x] Estudo de Power BI;
-- [x] Otimização em python utilizando métodos de transporte com 5 clientes;
 - [x] Modelagem dos dados em MySQL;
+- [x] Otimização em python utilizando métodos de transporte com 5 clientes;
+- [x] Atualização do GitHub;
 
-
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/e05fcdc4-98c8-40f4-be50-62f0c8132af3">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/6fac8184-1217-409a-9edc-21ae3c84c802">
 
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
@@ -114,7 +109,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
 - [ ] Integração dos resultados da otimização ao visualizador de indicadores em BI;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b7af6bba-62ae-4f4b-8379-af647ea251da">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/77a1bff0-e46e-4d83-8dd5-5fe697cb0d16">
 
 ## Sprint 4. Finalização
 - [ ] Documentação Sprint 4;
@@ -126,12 +121,41 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Correção de Bugs e ajustes de performance;
 - [ ] Criação da documentação técnica com treinamento para os usuários finais;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b2cdda59-0e69-4c9b-9859-59b4e3ed6657">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1c06cf88-e70d-40f3-8420-e1e2295fca19">
 
 # MVP
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/af6038d3-b91d-4def-8d2d-ed42c6fd5543">
 
+# Códigos Python
+
+´´´!pip install pulp
+from pulp import *
+
+Problema1 = LpProblem('Produção',LpMinimize)
+x11 = LpVariable('x11', lowBound = 0)
+x12 = LpVariable('x12', lowBound = 0)
+x13 = LpVariable('x13', lowBound = 0)
+x14 = LpVariable('x14', lowBound = 0)
+x15 = LpVariable('x15', lowBound = 0)
+x21 = LpVariable('x21', lowBound = 0)
+x22 = LpVariable('x22', lowBound = 0)
+x23 = LpVariable('x23', lowBound = 0)
+x24 = LpVariable('x24', lowBound = 0)
+x25 = LpVariable('x25', lowBound = 0)
+x35 = LpVariable('x35', lowBound = 0)
+
+Problema1 += 0.56*x11+0.46*x12+0.42*x13+0.44*x14+0.47*x15+0.4*x21+0.36*x22+0.36*x23+0.38*x24+0.38*x25+0.26*x35
+
+Problema1 += x11 + x12 + x13 + x14 + x15 == 2635200
+Problema1 += x21 + x22 + x23 + x24 + x25 == 10311000
+Problema1 += x35 == 1116900
+
+Problema1
+
+problema1.solve()
+for v in problema1.variables(): print (v.name, "=", v.varValue)
+print('resultado do custo minimo =', value(problema1.objective))´´´
 
 # Competências desenvolvidas
 
