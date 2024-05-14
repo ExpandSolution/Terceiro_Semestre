@@ -7,9 +7,8 @@ O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro a
 * [Equipe](#Equipe)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Cronograma das Sprints](#Cronograma)
+* * [MVP](#MVP)
 * [Backlog do Produto](#Backlog-do-Produto)
-* [MVP](#MVP)
-* [Códigos Python](#Códigos-Python)
 * [Competências Desenvolvidas](#Competências-Desenvolvidas)
 
 
@@ -60,6 +59,10 @@ Dev | Dev | Dev | Dev | Dev
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints: [(Clique Aqui)](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1/backlog)
+
+# MVP
+
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/af6038d3-b91d-4def-8d2d-ed42c6fd5543">
 
 # Backlog do Produto
   
@@ -122,14 +125,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação da documentação técnica com treinamento para os usuários finais;
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1c06cf88-e70d-40f3-8420-e1e2295fca19">
-
-# MVP
-
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/af6038d3-b91d-4def-8d2d-ed42c6fd5543">
-
-# Códigos Python
-
-
 
 # Competências desenvolvidas
 
