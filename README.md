@@ -7,7 +7,7 @@ O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro a
 * [Equipe](#Equipe)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Cronograma das Sprints](#Cronograma)
-* * [MVP](#MVP)
+* [MVP](#MVP)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Competências Desenvolvidas](#Competências-Desenvolvidas)
 
