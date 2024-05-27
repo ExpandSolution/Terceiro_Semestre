@@ -17,7 +17,7 @@ Sprint | Previsão | Status| Relatório|
 |Kick Off | 13/03/2024 | Concluído ✔️|  | 
 |01| 17/04/2024 | Concluído ✔️| [Relatório Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
 |02| 08/05/2024 | Concluído ✔️| [Relatório Sprint 2](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%202.pdf) |
-|03| 29/05/2024 | a fazer|  | 
+|03| 28/05/2024 | Concluído ✔️|  | 
 |04| 19/06/2024 | a fazer|  | 
 |Feira de Soluções|27/06/2024 | a fazer | | 
 
@@ -101,16 +101,16 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/6fac8184-1217-409a-9edc-21ae3c84c802">
 
 ## Sprint 3. Operacionalização
-- [ ] Documentação Sprint 3;
-- [ ] Relatório;
-- [ ] Gráfico Burndown;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Dashboard para visualização dos indicadores de produtividade de veículos, distribuição e custo de rotas;
-- [ ] Criação de dashboard (Power BI) com gráficos para melhor visualização dos indicadores;
-- [ ] Conexão entre o visualizador ao banco de dados;
-- [ ] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
-- [ ] Integração dos resultados da otimização ao visualizador de indicadores em BI;
+- [x] Documentação Sprint 3;
+- [x] Relatório;
+- [x] Gráfico Burndown;
+- [x] Divisão de Atividades no Jira;
+- [x] Monitoramento e ajustes dos dados;
+- [x] Dashboard para visualização dos indicadores de produtividade de veículos, distribuição e custo de rotas;
+- [x] Criação de dashboard (Power BI) com gráficos para melhor visualização dos indicadores;
+- [x] Conexão entre o visualizador ao banco de dados;
+- [x] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
+- [x] Integração dos resultados da otimização ao visualizador de indicadores em BI;
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/77a1bff0-e46e-4d83-8dd5-5fe697cb0d16">
 
