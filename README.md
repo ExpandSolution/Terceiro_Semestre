@@ -112,7 +112,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
 - [x] Conexão entre o visualizador ao banco de dados;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/7bac4f2b-d3ed-4136-8bd5-f8c62b66e9fe">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/206a4ab2-eca1-4d5e-834a-5fbcc7ec6a12">
 
 ## Sprint 4. Finalização
 - [ ] Documentação Sprint 4;
