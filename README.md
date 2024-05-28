@@ -106,11 +106,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Gráfico Burndown;
 - [x] Divisão de Atividades no Jira;
 - [x] Monitoramento e ajustes dos dados;
-- [x] Dashboard para visualização dos indicadores de produtividade de veículos, distribuição e custo de rotas;
-- [x] Criação de dashboard (Power BI) com gráficos para melhor visualização dos indicadores;
-- [x] Conexão entre o visualizador ao banco de dados;
+- [x] Criação de uma tabela com informações de demanda, frete e capacidade para 2024;
+- [x] Estudo das otimizações das rotas em python;
+- [x] Otimização em Python comparativa entre 2023 e 2024;
 - [x] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
-- [x] Integração dos resultados da otimização ao visualizador de indicadores em BI;
+- [x] Conexão entre o visualizador ao banco de dados;
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/77a1bff0-e46e-4d83-8dd5-5fe697cb0d16">
 
