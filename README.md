@@ -62,7 +62,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # MVP
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/af6038d3-b91d-4def-8d2d-ed42c6fd5543">
+<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2b769674-e789-4742-b82d-44dec61fa077">
 
 # Backlog do Produto
   
