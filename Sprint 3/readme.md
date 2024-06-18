@@ -18,7 +18,7 @@ Sprint | Previsão | Status| Relatório|
 |01| 17/04/2024 | Concluído ✔️| [Relatório Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
 |02| 08/05/2024 | Concluído ✔️| [Relatório Sprint 2](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%202.pdf) |
 |03| 28/05/2024 | Concluído ✔️| [Relatório Sprint 3](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%203.pdf) | 
-|04| 18/06/2024 | Concluído ✔️|  | 
+|04| 18/06/2024 | a fazer     |  | 
 |Feira de Soluções|27/06/2024 | a fazer | | 
 
 
