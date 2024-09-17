@@ -18,7 +18,7 @@ Sprint | Previsão | Status| Relatório|
 |01| 17/04/2024 | Concluído ✔️| [Relatório Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
 |02| 08/05/2024 | Concluído ✔️| [Relatório Sprint 2](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%202.pdf) |
 |03| 28/05/2024 | Concluído ✔️| [Relatório Sprint 3](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%203.pdf) | 
-|04| 18/06/2024 | Concluído ✔️|  | 
+|04| 18/06/2024 | Concluído ✔️| [Relatório Sprint 4](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%203.pdf) | 
 |Feira de Soluções|27/06/2024 | a fazer | | 
 
 
@@ -115,14 +115,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/206a4ab2-eca1-4d5e-834a-5fbcc7ec6a12">
 
 ## Sprint 4. Finalização
-- [ ] Documentação Sprint 4;
-- [ ] Relatório;
-- [ ] Gráfico Burndown;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Teste de integração entre o banco de dados, o visualizador de indicadores e o método de transportes;
-- [ ] Correção de Bugs e ajustes de performance;
-- [ ] Criação da documentação técnica com treinamento para os usuários finais;
+- [x] Documentação Sprint 4;
+- [x] Relatório;
+- [x] Gráfico Burndown;
+- [x] Divisão de Atividades no Jira;
+- [x] Monitoramento e ajustes dos dados;
+- [x] Teste de integração entre o banco de dados, o visualizador de indicadores e o método de transportes;
+- [x] Correção de Bugs e ajustes de performance;
+- [x] Criação da documentação técnica com treinamento para os usuários finais;
+- [x] Integração dos Resultados da Otimização;
 
 <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1c06cf88-e70d-40f3-8420-e1e2295fca19">
 
